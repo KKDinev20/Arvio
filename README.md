@@ -1,2 +1,1 @@
-# Arvio
-Warehouse Management System
+# EduSystem
